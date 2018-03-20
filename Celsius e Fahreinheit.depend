@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521543178 source:c:\devc\celsius e fahreinheit\main.c
+	<stdio.h>
+	<stdlib.h>
+
